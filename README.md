@@ -77,15 +77,6 @@ de novos clientes.
 - **DAX** — Criação de medidas: metas, taxa de crescimento, KPIs temporais
 - **Excel** — Base de dados e validação inicial das métricas
 
-
-## 🚀 Como Visualizar
-
-1. Faça o download do arquivo `.pbix`
-2. Abra no **Power BI Desktop** (gratuito)
-3. Explore os filtros e visões interativas
-
----
-
 ## 👤 Autor
 
 **Arthur Lima**
