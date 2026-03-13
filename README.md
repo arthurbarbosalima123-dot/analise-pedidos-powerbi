@@ -77,25 +77,6 @@ de novos clientes.
 - **DAX** — Criação de medidas: metas, taxa de crescimento, KPIs temporais
 - **Excel** — Base de dados e validação inicial das métricas
 
----
-
-## 📁 Estrutura do Projeto
-```
-analise-pedidos-powerbi/
-│
-├── dashboard/
-│   └── analise_pedidos.pbix
-│
-├── data/
-│   └── base_pedidos.xlsx
-│
-├── images/
-│   └── dashboard_preview.png
-│
-└── README.md
-```
-
----
 
 ## 🚀 Como Visualizar
 
